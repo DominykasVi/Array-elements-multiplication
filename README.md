@@ -1,0 +1,2 @@
+# Array elements multiplication
+ 
